@@ -18,6 +18,7 @@
 
 <template>
   <UContainer>
+    <Nav />
     <NuxtPage />
     <UDivider class="-translate-y-28" label="Made by" />
     <p class="text-center -translate-y-24 text-7xl hand">aapelix</p>

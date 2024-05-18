@@ -13,6 +13,21 @@ export default {
           '100%': { transform: 'translateY(-800px)', opacity: '0' },
         },
       },
+      colors: {
+        geyser: {
+          50: '#f5f8fa',
+          100: '#ebeff3',
+          200: '#cbd7e0',
+          300: '#abc0ce',
+          400: '#7e9eb2',
+          500: '#5e8299',
+          600: '#4a687f',
+          700: '#3d5467',
+          800: '#354857',
+          900: '#303e4a',
+          950: '#202931',
+        },
+      }
     },
   },
   plugins: [],

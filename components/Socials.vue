@@ -4,8 +4,6 @@
         <UButton label="GitHub" to="https://github.com/aapelix" />
         <UButton label="Twitter" to="https://x.com/@aapelix1" />
         <UButton label="YouTube" to="https://youtube.com/@aapelix" />
-        <UButton label="Twitch" to="https://www.twitch.tv/aapelix_" />
-        <UButton label="Instagram" to="https://aapelix.dev/NahMan" />
         </div>
     </UCard>
 </template>

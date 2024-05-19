@@ -1,7 +1,7 @@
 ---
-title: "Release of weather.aapelix.dev"
+title: "Release of weather . aapelix . dev"
 description: "description"
-headline: "Release of weather.aapelix.dev"
+headline: "Release of weather . aapelix . dev"
 banner: "/wallpaper.png"
 date: "19.5.2024"
 ---
